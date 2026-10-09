@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automated Insight Generation — AI/ML Assignment 4
 
 ## Overview
@@ -48,3 +49,7 @@ Upload a CSV from the sidebar. It must contain these columns:
 
 ## Limitations
 The supplied example has only 12 rows (2 months × 6 districts). Correlation estimates are fragile at this sample size and do not demonstrate causation. The assignment recommends substantially more months and districts for stable trend/correlation analysis. Outlier cutoffs are calculated from the data currently loaded; results can change when more observations are added.
+=======
+# Automated-Insight-Generation-task
+Healthcare analytics dashboard with automated insight generation using Python and Streamlit
+>>>>>>> 69761109eed0aa5aebd9eb8c95110b7a3bce12f6
